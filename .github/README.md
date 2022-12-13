@@ -45,17 +45,3 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **Musik-Scatter2** better!
-# 📑 Acknowledgement / Credits
-
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
-
-
-Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
-
-
