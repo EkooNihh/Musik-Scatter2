@@ -38,10 +38,4 @@ Reach out to the maintainer at one of the following places:
 - Contact options listed on [this GitHub profile](https://github.com/EkooNihh)
 - [Telegram Support](https://t.me/scatterupdate)
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
-
-- Add a [GitHub Star](https://github.com/EkooNihh/Musik-Scatter2) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-Together, we can make **Musik-Scatter2** better!
+If you want to say **thank you** or/and support active development of **Musik-Scatter2**
